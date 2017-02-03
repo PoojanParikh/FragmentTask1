@@ -2,7 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#abcdef">
+    android:background="#abcdef"
+    android:id="@+id/linear_layout_log_in">
 
     <LinearLayout
         android:layout_width="match_parent"
